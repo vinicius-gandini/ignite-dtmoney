@@ -23,7 +23,7 @@ export const Container = styled.div`
       border-radius: 0.25rem;
 
       &:first-child {
-        background: var(--text-title);
+        color: var(--text-title);
       }
 
       &.deposit {
